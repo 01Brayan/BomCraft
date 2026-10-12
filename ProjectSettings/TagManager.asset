@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Bomb
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Bomb
+  - Obstacle
+  - Explosion
+  - PowerUp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1815693075
+    locked: 0
+  - name: Floor
+    uniqueID: 3313899605
+    locked: 0
+  - name: Environment
+    uniqueID: 2078372669
+    locked: 0
+  - name: Items
+    uniqueID: 3904512273
+    locked: 0
+  - name: Characters
+    uniqueID: 2691343945
+    locked: 0
+  - name: Effects
+    uniqueID: 1251476305
+    locked: 0
+  - name: UI
+    uniqueID: 4136189271
+    locked: 0
+  m_RenderingLayers:
+  - Default
